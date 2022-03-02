@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-
+#Comentario uwu
+#Comentario 2 uwu
 # Variables
 
 a= 3
@@ -158,5 +159,4 @@ ValorConDescuento= valorProducto - valorAhorrado
 print("El valor inicial es: $", valorProducto)
 print("Usted Ahorro: $",valorAhorrado )
 print("El valor final es: $",ValorConDescuento )
-#Comentario uwu
-#Comentario 2 uwu
+
